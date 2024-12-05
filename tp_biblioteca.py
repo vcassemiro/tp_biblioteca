@@ -1,3 +1,6 @@
+#Victor Andrade Cassemiro
+# Raul Vitor 
+
 import pickle
 
 # Função para salvar os dados da biblioteca em um arquivo
